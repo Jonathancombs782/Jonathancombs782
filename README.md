@@ -1,19 +1,28 @@
 # Jonathan Combs — JTCombs
 
-I'm Jonathan Combs, a lineman from Hazard, Kentucky. I build things in public and I document the evidence.
+I'm Jonathan Combs, from Hazard, Kentucky. I build things in public and I document the evidence.
 
 ## What I'm working on
 
 - **JTCombs on YouTube** — daily Shorts on AI, tech, and what I'm building: https://www.youtube.com/@JonathanCombs2023
+
 - **LeanTrader-Bot** — a trading bot I'm building on a paper-first path. Paper trading, real plans, no live money moved by the bot.
+
 - **BA token on Base** — a community token I created from my Base wallet (`jonathancombs.base.eth`).
+
 - **Telegram** — announcements and updates: https://t.me/jtcombsofficial
+
+## Accomplishments
+
+- **Google Developer** — 14 badges on my Google Developer profile (https://g.dev/JTC95), including Learning, AI Explorer, Chrome DevTools User, Gemini Agent Ready, and GDG member.
+- **Uniswap v3-core** — FullMath duplicate-test fix (PR #1128) and SECURITY.md (PR #1129) on Uniswap/v3-core, with a v4-core fork started.
 
 ## Find me
 
 - YouTube: https://www.youtube.com/@JonathanCombs2023
 - Telegram: https://t.me/jtcombsofficial
 - Base wallet: `jonathancombs.base.eth`
+- Sponsor my open-source work: https://github.com/sponsors/Jonathancombs782
 
 ## The files in this repo
 
